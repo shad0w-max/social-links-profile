@@ -4,8 +4,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Overview](#overview) 
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
