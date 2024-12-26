@@ -27,9 +27,40 @@ body {
   width: 350px;
   background-color: var(--gray-800);
   color: var(--white);
-
+  padding: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.profile-image img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.profile-image {
+  margin-bottom: 20px;
+}
+
+.profile-details {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.profile-details h2 {
+    font-size: 24px; 
+    font-weight: 600;
+}
+
+.profile-details p {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--green);
+    margin-top: 5px;
+}
+
+.profile-bio .bio-text {
+  font-size: 14px; 
 }
