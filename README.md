@@ -33,4 +33,4 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Author
 
 - Frontend Mentor - [@shad0w-max](https://www.frontendmentor.io/profile/shad0w-max)
-- X(Twitter) - [@shad0w_max](https://x.com/shad0w_max)
+- X(Twitter) - [@0x_greatm3](https://x.com/0x_greatm3)
